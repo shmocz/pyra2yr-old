@@ -1,0 +1,11 @@
+**
+!.gitignore
+!Makefile
+!/ra2yrproto
+!/ra2yrproto/**
+!/pyra2yr
+!/pyra2yr/**
+!.pylintrc
+!requirements.txt
+!setup.py
+!README.md
